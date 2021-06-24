@@ -11,7 +11,6 @@ import os
 # Header parts of ICMP
 Type = 8 # ECHO_REQUEST
 
-
 # creating a Pinger class
 class Pinger:
 
