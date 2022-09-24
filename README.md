@@ -9,7 +9,7 @@ The options include </br>
   
 Example
 ```bash
-python Pinger.py -c 5 www.archlinux.org
+python Pinger.py -c 5 www.google.com
 ```
 
 Feel free to contribute additional options
