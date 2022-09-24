@@ -7,4 +7,3 @@ The options include </br>
   -Maximum response waiting time(timeout)
 
 Feel free to contribute additional options
-
